@@ -16,7 +16,9 @@ Feel free to check out my projects, connect with me, or reach out for collaborat
 
 ## 📊 GitHub Stats
 <div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=AdjiePrasetya&theme=sakura-x&border_radius=10&card_width=400&card_height=150)](https://git.io/streak-stats)
+
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdjiePrasetya&theme=sakura-x)](https://github.com/ryo-ma/github-profile-trophy)
