@@ -1,4 +1,4 @@
-<img src="Assets/final_banner.png" alt="GitHub Banner" width="100%" />
+<img src="Assets/finally-banner.png" alt="GitHub Banner" width="100%" />
 
 # **About Me**
 - 📚 Studies Informatics at [Universitas Tanjungpura](https://untan.ac.id/)
