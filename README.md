@@ -9,7 +9,7 @@ university  : Universitas Tanjungpura (UNTAN) — Computer Science, Semester 4
 location    : Pontianak, West Kalimantan, Indonesia 🇮🇩
 
 currently   :
-  building  : Pothole Detection for SDI Prediction in PKRMS
+  building  : Pothole Detection for SDI Prediction in PKRMS, AI Meeting Assistant with Diarization & Task Extraction
   exploring : Deep Learning, Pytorch, Pretrained Models, Fine Tuning, Local LLMs, Object Detection
   open_to   : Collaborations, open-source contributions, freelance works
 ```
