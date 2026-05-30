@@ -1,4 +1,4 @@
-<img src="Assets/adjie-prasetya-banner.svg" alt="GitHub Banner" width="100%" />
+<img src="Assets/banner-final.svg" alt="GitHub Banner" width="100%" />
 
 # **About Me**
 - 📚 Studies Informatics at [Universitas Tanjungpura](https://untan.ac.id/)
