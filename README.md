@@ -75,7 +75,7 @@ currently   :
 
 <div align="center">
   
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=333333&section=footer&fontAlignY=11&fontAlign=6&fontColor=000000&descAlign=8&descAlignY=7)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=171717,2d2d2d,171717&section=footer)
 
 </div>
 
