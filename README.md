@@ -5,7 +5,8 @@
 ```text
 name        : Adjie Prasetya
 role        : AI Engineer · ML Ops
-university  : Universitas Tanjungpura (UNTAN) — Computer Science, Semester 4
+university  : Tanjungpura University
+major       : Informatics (2nd Year)
 location    : Pontianak, West Kalimantan, Indonesia 🇮🇩
 
 currently   :
