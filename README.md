@@ -17,14 +17,14 @@ Feel free to check out my projects, connect with me, or reach out for collaborat
 ## 📊 GitHub Stats
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=AdjiePrasetya&theme=github-dark-dimmed&border_radius=10&card_width=400&card_height=150)](https://git.io/streak-stats)
-
-</div>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdjiePrasetya&theme=zenburn)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdjiePrasetya&theme=zenburn)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdjiePrasetya&theme=zenburn)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdjiePrasetya&theme=zenburn)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdjiePrasetya&theme=zenburn&utcOffset=8)
+
+</div>
+
+
 
 
