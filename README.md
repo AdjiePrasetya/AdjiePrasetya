@@ -36,6 +36,19 @@ Feel free to check out my projects, connect with me, or reach out for collaborat
 </picture>
 </div>
 
+## 🏆 Trophies
+
+<div align="center">
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Lapnes&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=-C,-UNKNOWN)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+<!-- or -->
+
+[![trophy](https://github-trophies.vercel.app/?username=AdjiePrasetya&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/lucthienphong1120/github-trophies)
+
+</div>
+
+---
 
 
 
