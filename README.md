@@ -21,6 +21,7 @@ Feel free to check out my projects, connect with me, or reach out for collaborat
 
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdjiePrasetya&theme=sakura-x)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AdjiePrasetya)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
