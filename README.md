@@ -1,6 +1,6 @@
 <img src="Assets/finally-banner.png" alt="GitHub Banner" width="100%" />
 
-## 🧠 `$ whoami`
+## 🧠 `About Me`
 
 ```text
 name        : Adjie Prasetya
