@@ -1,6 +1,17 @@
 <img src="Assets/finally-banner.png" alt="GitHub Banner" width="100%" />
 
-## 🧠 `About Me`
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jiprsty4) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajiii) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__kn0wn__) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adjie0915@gmail.com)
+
+</div>
+
+---
+
+## `About Me`
 
 ```text
 name        : Adjie Prasetya
@@ -117,23 +128,13 @@ currently   :
 
 </div>
 
-## 🌐 Connect
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jiprsty4) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajiii) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__kn0wn__) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adjie0915@gmail.com)
-
-</div>
-
----
 
 <div align="center">
+
+*`> Coding the world we want to live in.`*
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:050a0f,50:2d2d2d,100:050a0f&height=80&section=footer)
 
-*`> Coding the world we want to live in.`*
 
 </div>
 
