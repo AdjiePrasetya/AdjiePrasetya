@@ -76,6 +76,7 @@ currently   :
 <div align="center">
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:050a0f,50:2d2d2d,100:050a0f&height=80&section=footer)
+*`> Coding the world we want to live in.`*
 
 </div>
 
