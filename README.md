@@ -57,7 +57,7 @@ currently   :
 
 <!-- or -->
 
-[![trophy](https://github-trophies.vercel.app/?username=AdjiePrasetya&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/lucthienphong1120/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=AdjiePrasetya&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
 
@@ -66,7 +66,7 @@ currently   :
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jiprsty4) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajiii) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__known__) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__kn0wn__) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adjie0915@gmail.com)
 
 </div>
