@@ -1,11 +1,24 @@
 <img src="Assets/finally-banner.png" alt="GitHub Banner" width="100%" />
 
-# **About Me**
-- 📚 Studies Informatics at [Universitas Tanjungpura](https://untan.ac.id/)
-- 🤖 Passionate about Machine Learning, Computer Vision, NLP, Data Analysis, and Low-Level Programming
-- 🔬 I enjoy working at the intersection of research and application
-- 🌱 Always eager to learn, contribute to open-source projects, and collaborate with other passionate minds in the tech community
-Feel free to check out my projects, connect with me, or reach out for collaborations!
+## 🧠 `$ whoami`
+
+```text
+name        : Adjie Prasetya
+role        : AI Engineer · ML Ops
+university  : Universitas Tanjungpura (UNTAN) — Computer Science, Semester 4
+location    : Pontianak, West Kalimantan, Indonesia 🇮🇩
+
+currently   :
+  building  : Pothole Detection for SDI Prediction in PKRMS
+  exploring : Deep Learning, Pytorch, Pretrained Models, Fine Tuning, Local LLMs, Object Detection
+  open_to   : Collaborations, open-source contributions, freelance works
+```
+
+> *"Passionate about building end-to-end AI solutions —
+> from experimenting with deep learning and object detection in PyTorch
+> to deploying scalable machine learning workflows."*
+
+---
 
 
 ## 🌐 Socials:
