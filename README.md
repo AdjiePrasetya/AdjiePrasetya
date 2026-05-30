@@ -21,7 +21,10 @@ Feel free to check out my projects, connect with me, or reach out for collaborat
 
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdjiePrasetya)](https://github.com/ryo-ma/github-profile-trophy)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdjiePrasetya&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdjiePrasetya&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdjiePrasetya&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdjiePrasetya&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdjiePrasetya&theme=zenburn&utcOffset=8)
 
 
